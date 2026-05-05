@@ -473,7 +473,7 @@ This work is licensed under the **MIT License** — free to use, share, and modi
 
 ## 👤 Author
 
-**[Lal Chand]**
+**Lal Chand**
 
 - 💼 LinkedIn: [linkedin.com/in/lalchand07](https://linkedin.com/in/lalchand07)
 - 🐙 GitHub: [@lalchand07](https://github.com/lalchand07)
