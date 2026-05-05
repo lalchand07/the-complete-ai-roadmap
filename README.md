@@ -473,11 +473,11 @@ This work is licensed under the **MIT License** — free to use, share, and modi
 
 ## 👤 Author
 
-**[Your Name]**
+**[Lal Chand]**
 
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- 🐦 Twitter/X: [@yourhandle](https://twitter.com/yourhandle)
+- 💼 LinkedIn: [linkedin.com/in/lalchand07](https://linkedin.com/in/lalchand07)
+- 🐙 GitHub: [@lalchand07](https://github.com/lalchand07)
+- 🐦 Twitter/X: [@LALCHAN23884723](https://x.com/LALCHAN23884723)
 
 ---
 
